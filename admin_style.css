@@ -1,0 +1,66 @@
+table, th, td {
+    
+    padding: 25px;
+    text-align: left;
+    color: rebeccapurple;
+    border-bottom: 1px solid #ddd;
+    border-color: blueviolet;
+    font-size: large;
+  }
+  
+
+  .admin_page{
+    color:darkmagenta;
+    text-align: left;
+    font:italic;
+    font-size: 45;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  }
+  .admin_page:hover{
+    background-color:palevioletred;
+  }
+  .p_tag{
+    text-align: right;
+    font-size:35;
+    color:beige;
+    font:italic;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    animation-name: example;
+    animation-duration: 4s;
+    animation-iteration-count: infinite;
+  }
+  @keyframes example {
+    0%   {background-color:rgb(245, 101, 190);}
+  25%  {background-color: rgb(241, 55, 170);}
+  50%  {background-color: rgb(164, 32, 129);}
+  100% {background-color: rgb(165, 44, 184);}
+  }
+  .video_css{
+    position: relative;
+    border-color: blueviolet;
+    float: right;
+    padding-right: 1cm;
+    padding-top: 5cm;    
+} 
+
+.col-md-8{
+    background-color:peachpuff;
+    border-color: blueviolet;
+
+}
+.button{
+    background-color:pink; /* Green */
+    color: white;
+    border-radius: 1cm;
+    border-color: blueviolet;
+    padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+
+}
+.button:hover{
+    background-color:rgb(234, 70, 196); /* Green */
+  color: white;
+}
