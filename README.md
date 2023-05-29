@@ -9,8 +9,6 @@
 *   Snehith H
 *   Sahana Evangiline
 *   Akshaya K
-*   Veekshith
-
 
 Front End 
   HTML, CSS, javascript 
